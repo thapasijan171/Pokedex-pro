@@ -79,8 +79,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ![screenshot](4.png)
 <br>
 ![screenshot](5.png)
-<br>6
-![screenshot](.png)
+<br>
+![screenshot](6.png)
 
 
 
