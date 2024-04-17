@@ -81,5 +81,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ![screenshot](6.png)
 
 
-
-# main
