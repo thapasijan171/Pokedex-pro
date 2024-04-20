@@ -129,7 +129,7 @@ export const projects = [
   },
   {
     id: 5,
-    title: "Social Media",
+    title: "Facebook Clone",
     cat: "Web App",
     url: "",
     img: social,
