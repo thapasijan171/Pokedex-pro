@@ -5,7 +5,7 @@ import { BsCheck2All } from "react-icons/bs";
 const Skills = () => {
   return (
     <div className='w-full flex flex-col py-20'>
-      <h4 className='text-3xl font-bold text-black dark:text-white mb-10 text-center'>
+      <h4 className='text-3xl font-bold text-black dark:text-white mb-14 text-center'>
         Technical Skills
       </h4>
 
