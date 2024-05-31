@@ -40,7 +40,7 @@ const Header = () => {
           </button>
           <a href='#projects'>
             <button className='text-lg text-white fonnt-semibold rounded-md py-3 px-5 bg-black dark:bg-[#224cff10]'>
-              <a href="#">Profile</a>
+              Projects
             </button>
           </a>
         </div>
