@@ -36,11 +36,11 @@ const Header = () => {
 
         <div className='mt-10 flex gap-10'>
           <button className='bg-orange-700 text-lg text-white font-semibold rounded-md py-3 px-5'>
-            Hire Me
+            <a href="http://github.com/thapasijan171">Github</a>
           </button>
           <a href='#projects'>
             <button className='text-lg text-white fonnt-semibold rounded-md py-3 px-5 bg-black dark:bg-[#224cff10]'>
-              Projects
+              <a href="#">Profile</a>
             </button>
           </a>
         </div>
