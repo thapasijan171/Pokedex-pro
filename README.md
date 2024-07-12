@@ -52,7 +52,7 @@ Hello! I'm Sijan Thapa, a passionate web developer with a love for creating inte
 
 ## License
 
-This project is licensed under the MIT License - see the [https://github.com/thapasijan171/portfolio-website-main/blob/main/LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/thapasijan171/portfolio-website-main/blob/main/LICENSE) file for details.
 
 ## Acknowledgments
 - **React:** A JavaScript library for building user interfaces.
