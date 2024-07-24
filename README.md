@@ -19,8 +19,8 @@ Hello! I'm Sijan Thapa, a passionate web developer with a love for creating inte
 - **Tools:** Git, npm, Webpack
 
 ### Contact Me
-- **Email:** [thapasijan171@gmail.com](mailto:your.thapasijan171@gmail.com)
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/sijanthapa/)
+- **Email:** [thapasijan171@gmail.com](mailto:your.sijanlamichhanemagar9061@gmail.com)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/sijanthapa171/)
 - **Instagram:** [Insta Profile](https://instagram.com/sijanthapa171)
 
 ## How to Use This Project
