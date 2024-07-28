@@ -19,8 +19,8 @@ const Footer = () => {
         </div>
 
         <div className='flex flex-col gap-5 text-md text-white '>
-          <p>thapasijan171@gmail.com</p>
-          <p>+977 9814170902</p>
+          <p>thapasijan906@gmail.com</p>
+          <p>+91 9032650162</p>
         </div>
       </div>
 
