@@ -11,7 +11,7 @@ I made a website using **React** and **Tailwind CSS** to showcase my projects. T
 
 ## About Me
 
-Hello! I'm Sijan Thapa, a passionate web developer with a love for creating interactive and dynamic web applications. I specialize in front-end development, particularly with React, and have experience in using various CSS frameworks, including Tailwind CSS.
+Hello!, I'm Sijan Thapa, a passionate web developer with a love for creating interactive and dynamic web applications. I specialize in front-end development, particularly with React, and have experience in using various CSS frameworks, including Tailwind CSS.
 
 ### Skills
 - **Languages:** JavaScript, HTML, CSS, Node.js, Express, mongoDB, Sql and non Sql
