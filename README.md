@@ -1,73 +1,53 @@
-# Project Showcase Website
+# Portfolio Website
 
-## About the Project
+## Overview
 
-I made a website using **React** and **Tailwind CSS** to showcase my projects. This website serves as a portfolio to display the various projects I have worked on, demonstrating my skills in web development and design.
+This is my personal portfolio website built with Next.js 14, Tailwind CSS, ShadCN UI, and Aceternity UI. It showcases my projects and skills. The portfolio features two modes:
+- **Normal User Mode**: Users can view my skills and projects directly.
+- **Developer Mode**: Users are navigated to a CLI screen where they can fetch my information using commands.
 
-### Features
-- **Responsive Design:** The website is fully responsive and looks great on all devices.
-- **Modern UI:** Built with Tailwind CSS to provide a clean and modern user interface.
-- **React Components:** Utilizes reusable React components for efficient development.
+## Features
 
-## About Me
+- **Showcase Skills and Projects**: Easily accessible and visually appealing presentation of my work.
+- **Developer Mode CLI**: Interactive CLI screen for users to explore my portfolio through commands.
+- **Responsive Design**: Optimized for various devices.
 
-Hello!, I'm Sijan Thapa, a passionate web developer with a love for creating interactive and dynamic web applications. I specialize in front-end development, particularly with React, and have experience in using various CSS frameworks, including Tailwind CSS.
+## Tech Stack
 
-### Skills
-- **Languages:** JavaScript, HTML, CSS, Node.js, Express, mongoDB, Sql and non Sql
-- **Frameworks:** React, Tailwind CSS
-- **Tools:** Git, npm, Webpack
+- **Frontend**: Next.js 14
+- **Styling**: Tailwind CSS, Shadcn UI, Aceternity UI
 
-### Contact Me
-- **Email:** [thapasijan171@gmail.com](mailto:your.sijanlamichhanemagar9061@gmail.com)
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/sijanthapa171/)
-- **Instagram:** [Insta Profile](https://instagram.com/sijanthapa171)
+## Getting Started
 
-## How to Use This Project
+### Prerequisites
 
-1. **Clone the repository:**
-    ```bash
-    git clone https://github.com/thapasijan171/portfolio-website-main.git
-    ```
+- Node.js
 
-2. **Navigate to the project directory:**
-    ```bash
-    cd portfolio-website-main
-    ```
+- npm or yarn
 
-3. **Install the dependencies:**
-    ```bash
-    npm install
-    ```
+### Installation
 
-4. **Run the development server:**
-    ```bash
-    npm start
-    ```
-
-5. **Open your browser and visit:**
-    ```plaintext
-    http://localhost:3000
-    ```
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/thapasijan171/portfolio-website-main/blob/main/LICENSE) file for details.
-
-## Acknowledgments
-- **React:** A JavaScript library for building user interfaces.
-- **Tailwind CSS:** A utility-first CSS framework for rapidly building custom designs.
-- **Create React App:** A comfortable environment for learning React, and a great foundation for building single-page applications.
+1. Clone the repository:
+```bash
+   git clone https://github.com/thapasijan171/portfolio.git
+   ```
+2. Navigate to the directory
+```bash
+   cd portfolio
+   ```
+3. Install the dependencies
+```bash
+   npm install
+   ```
+### Running the App
+Start the development server:
+``` bash
+npm run dev
+```
+or
+```bash
+yarn dev
+```
+Open http://localhost:3000 in your browser to see the portfolio in action.
 
 
-
-### Demo images 
-![screenshot](1.png)
-<br>
-![screenshot](2.png)
-<br>
-![screenshot](3.png)
-<br>
-![screenshot](5.png)
-<br>
-![screenshot](6.png)
