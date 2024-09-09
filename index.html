@@ -1,0 +1,53 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="icon" type="image/x-icon" href="./imgs/pokeball.png">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="refresh" content="3.7; url=/mainpage/index.html" />
+    <title>HOME</title>
+</head>
+
+<body onload="myfunction()">
+    <div class="anim">
+        <img src="./pichu.gif" class="pic">
+        <script type="text/javascript">
+            function myFunction(x) {
+                if (x.matches) { // If media query matches
+                    document.body.style.zoom = "90%"
+                } else {
+                    document.body.style.zoom = "100%"
+                }
+            }
+            let x = window.matchMedia("(max-height: 630px)")
+            myFunction(x)
+            x.addListener(myFunction) 
+        </script>
+</body>
+
+</html>
+<style>
+    body {
+        background: #f7f7f9;
+    }
+
+    .anim {
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+    }
+
+    @media (max-width: 1023px) {
+        .pic {
+            height: 100%;
+            width: 100%;
+        }
+
+        .anim {
+            margin-top: 50%;
+        }
+    }
+</style>
